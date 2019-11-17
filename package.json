@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/shonubijerry/design-partterns-typescript#readme",
   "dependencies": {
-    "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.2"
   }
 }
