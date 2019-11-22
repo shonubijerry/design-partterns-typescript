@@ -4,7 +4,7 @@
   "description": "Javascript design patterns examples using typescript",
   "main": "index.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "./node_modules/.bin/tsc"
   },
   "repository": {
     "type": "git",

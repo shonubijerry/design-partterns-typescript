@@ -1,5 +1,5 @@
 # design-partterns-typescript
-Javascript design patterns examples using typescript
+Javascript design patterns examples using typescript. Inspired by Marko Misura's article [here](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 
 ## How to setup
